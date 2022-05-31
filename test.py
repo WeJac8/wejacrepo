@@ -1,6 +1,3 @@
-
-
-
 class MyInt:
 	__value = None
 	def __init__(self,value): 
